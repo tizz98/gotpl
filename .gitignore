@@ -2,3 +2,5 @@ gotpl
 *.swp
 *.swo
 /.idea
+/dist
+/Dockerfile
